@@ -1,0 +1,14 @@
+[{
+"name" : "Sasha",
+"phoneNumber: "11111111"
+}
+{
+"name" : "Dasha",
+"phoneNumber": "555555555"
+}
+{
+"name" : "Grisha",
+"phoneNumber": "2020327"
+}]
+
+
